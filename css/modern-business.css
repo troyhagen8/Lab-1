@@ -32,5 +32,7 @@ background-color: rgb(1,143,145);} .bg{background-color: rgb(1,143,145);
 }
 
 footer{
- width = 100%; 
+ width: 100%; 
+ height: 50px;
+ background-color: red;
 }
