@@ -28,4 +28,9 @@ body {
   margin-bottom: 30px;
 }
 .nav-bg{ 
-background-color: rgb(1,143,145);} .bg{background-color: rgb(1,143,145);}
+background-color: rgb(1,143,145);} .bg{background-color: rgb(1,143,145);
+}
+
+footer{
+ width = 100%; 
+}
